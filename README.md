@@ -7,6 +7,9 @@ Shorthand [snippets](https://atom.io/packages/snippets) for CSS, SCSS, Sass, and
 ## Preview
 ![CSS grid snippets in atom](https://s10.postimg.org/lp7ivhwop/css_grid_snippets.gif)
 
+## What is CSS Grid Layout?
+To put it simply CSS Grid Layout (aka "Grid"), is a two-dimensional grid-based layout system that aims to do nothing less than completely change the way we design grid-based user interfaces. It hasn't been added yet to modern browsers but is expected to be added within the coming months.
+
 ### What's Included?
 You can see the list of the CSS grid snippets in the tables below. I have organized the tables into grid container and grid item snippets. Alternatively, once you install the package you can view the snippets in the Settings View.  Basically, it's snippets like `dg` for ```display: grid;``` and `gg` for ```grid-gap: 20px;```.
 
@@ -73,7 +76,18 @@ You can see the list of the CSS grid snippets in the tables below. I have organi
 | justify-self: center;             | jsc           |
 | justify-self: end;                | jse           |
 | justify-self: start;              | jss           |
-| justify-self: stretch;            | jsstr         |
+| justify-self: stretch;            | jsstr
+        |
+
+### Want To Learn CSS Grid?
+If you are new or have never heard of CSS Grid before, then now is the time to learn, with browsers ready to start shipping it very soon.
+
+For more information about grid and how to learn it, checkout out [gridbyexample.com](http://gridbyexample.com "Grid By Example homepage"), created by [Rachel Andrew](https://rachelandrew.co.uk "Rachel Andrew's website") who has been at the forefront of grid layout research.
+
+### Grid Layout Learning Resources
+* [gridbyexample.com](http://gridbyexample.com "Grid By Example homepage")
+* [css-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "A Complete Guide to Grid")
+* [sitepoint.com](https://www.sitepoint.com/introducing-the-css-grid-layout/ "Introducing the CSS Grid Layout")
 
 ### Notes
 Issues and Pull Requests are welcome.
