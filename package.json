@@ -17,7 +17,7 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Pushedskydiver/atom-css-grid-snippets"
   },
   "license": "MIT",
   "main": "lib/main"
