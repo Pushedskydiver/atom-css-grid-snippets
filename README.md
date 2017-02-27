@@ -8,7 +8,7 @@ Shorthand [snippets](https://atom.io/packages/snippets) for CSS, SCSS, Sass, and
 ![CSS grid snippets in atom](https://s10.postimg.org/lp7ivhwop/css_grid_snippets.gif)
 
 ### What's Included?
-You can see the list of the CSS grid snippets in the tables below. i have organized the tables into grid container and grid item snippets. Alternatively, once you install the package you can view the snippets in the Settings View.  Basically, it's snippets like `dg` for ```display:grid;```
+You can see the list of the CSS grid snippets in the tables below. i have organized the tables into grid container and grid item snippets. Alternatively, once you install the package you can view the snippets in the Settings View.  Basically, it's snippets like `dg` for ```display: grid;```
 *display: grid;* and `gg` for ```grid-gap: 20px;```.
 
 ### Grid Container Snippets
