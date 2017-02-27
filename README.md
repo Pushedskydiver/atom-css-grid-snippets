@@ -76,8 +76,7 @@ You can see the list of the CSS grid snippets in the tables below. I have organi
 | justify-self: center;             | jsc           |
 | justify-self: end;                | jse           |
 | justify-self: start;              | jss           |
-| justify-self: stretch;            | jsstr
-        |
+| justify-self: stretch;            | jsstr         |
 
 ### Want To Learn CSS Grid?
 If you are new or have never heard of CSS Grid before, then now is the time to learn, with browsers ready to start shipping it very soon.
