@@ -5,11 +5,9 @@
   "keywords": [
     "snippets",
     "css",
-    "less",
+    "css grid",
     "scss",
     "sass",
-    "grid",
-    "css grid"
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
