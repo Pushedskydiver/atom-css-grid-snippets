@@ -49,10 +49,10 @@
     'body': 'display: subgrid;'
   'grid-auto-columns':
     'prefix': 'gac'
-    'body': 'grid-auto-columns: ${1:50px} ${2:50px};'
+    'body': 'grid-auto-columns: ${1:50px};'
   'grid-auto-rows':
     'prefix': 'gar'
-    'body': 'grid-auto-rows: ${1:50px} ${2:50px};'
+    'body': 'grid-auto-rows: ${1:50px};'
   'grid-auto-flow':
     'prefix': 'gaf'
     'body': 'grid-auto-flow: ${1:dense};'
