@@ -1,0 +1,173 @@
+'.source.css, .source.scss, .source.sass, .source.less':
+  'align-content':
+    'prefix': 'ac'
+    'body': 'align-content: ${1:center};'
+  'align-content: center':
+    'prefix': 'acc'
+    'body': 'align-content: center;'
+  'align-content: end':
+    'prefix': 'ace'
+    'body': 'align-content: end;'
+  'align-content: start':
+    'prefix': 'acs'
+    'body': 'align-content: start;'
+  'align-content: space-around':
+    'prefix': 'acsa'
+    'body': 'align-content: space-around;'
+  'align-content: space-between':
+    'prefix': 'acsb'
+    'body': 'align-content: space-between;'
+  'align-content: space-evenly':
+    'prefix': 'acse'
+    'body': 'align-content: space-evenly;'
+  'align-content: stretch':
+    'prefix': 'acstr'
+    'body': 'align-content: stretch;'
+  'align-items':
+    'prefix': 'ai'
+    'body': 'align-items: ${1:center};'
+  'align-items: center':
+    'prefix': 'aic'
+    'body': 'align-items: center;'
+  'align-items end':
+    'prefix': 'aie'
+    'body': 'align-items: end;'
+  'align-items: start':
+    'prefix': 'ais'
+    'body': 'align-items: start;'
+  'align-items stretch':
+    'prefix': 'aistr'
+    'body': 'align-items: stretch;'
+  'display: inline-grid':
+    'prefix': 'disig'
+    'body': 'display: inline-grid;'
+  'display: grid':
+    'prefix': 'disg'
+    'body': 'display: grid;'
+  'display: subgrid':
+    'prefix': 'dissg'
+    'body': 'display: subgrid;'
+  'grid-auto-columns':
+    'prefix': 'gac'
+    'body': 'grid-auto-columns: ${1:50px} ${2:50px};'
+  'grid-auto-rows':
+    'prefix': 'gar'
+    'body': 'grid-auto-rows: ${1:50px} ${2:50px};'
+  'grid-auto-flow':
+    'prefix': 'gaf'
+    'body': 'grid-auto-flow: ${1:dense};'
+  'grid-auto-flow: column':
+    'prefix': 'gafc'
+    'body': 'grid-auto-flow: column;'
+  'grid-auto-flow: dense':
+    'prefix': 'gafd'
+    'body': 'grid-auto-flow: dense;'
+  'grid-auto-flow: row':
+    'prefix': 'gafr'
+    'body': 'grid-auto-flow: row;'
+  'grid-column-gap':
+    'prefix': 'gcg'
+    'body': 'grid-column-gap: ${1:20px};'
+  'grid-gap':
+    'prefix': 'gg'
+    'body': 'grid-gap: ${1:20px};'
+  'grid-row-gap':
+    'prefix': 'grg'
+    'body': 'grid-row-gap: ${1:20px};'
+  'grid-template-areas':
+    'prefix': 'gta'
+    'body': """
+      grid-template-areas:
+        "${1:<grid-area-name>}"
+        "${2:<grid-area-name>}";
+    """
+  'grid-template-columns':
+    'prefix': 'gtc'
+    'body': 'grid-template-columns: ${1:1fr} ${2:1fr} ${3:1fr};'
+  'grid-template-rows':
+    'prefix': 'gtr'
+    'body': 'grid-template-rows: ${1:1fr} ${2:1fr} ${3:1fr};'
+  'justify-content':
+    'prefix': 'jc'
+    'body': 'justify-content: ${1:center};'
+  'justify-content: center':
+    'prefix': 'jcc'
+    'body': 'justify-content: center;'
+  'justify-content: end':
+    'prefix': 'jce'
+    'body': 'justify-content: end;'
+  'justify-content: start':
+    'prefix': 'jcs'
+    'body': 'justify-content: start;'
+  'justify-content: space-around':
+    'prefix': 'jcsa'
+    'body': 'justify-content: space-around;'
+  'justify-content: space-between':
+    'prefix': 'jcsb'
+    'body': 'justify-content: space-between;'
+  'justify-items':
+    'prefix': 'ji'
+    'body': 'justify-items: ${1:center};'
+  'justify-items: center':
+    'prefix': 'jic'
+    'body': 'justify-items: center;'
+  'justify-items: end':
+    'prefix': 'jie'
+    'body': 'justify-items: end;'
+  'justify-items: start':
+    'prefix': 'jis'
+    'body': 'justify-items: start;'
+  'justify-items: stretch':
+    'prefix': 'jistr'
+    'body': 'justify-items: stretch;'
+  'align-self':
+    'prefix': 'als'
+    'body': 'align-self: ${1:center};'
+  'align-self: center':
+    'prefix': 'alsc'
+    'body': 'align-self: center;'
+  'align-self: end':
+    'prefix': 'alse'
+    'body': 'align-self: end;'
+  'align-self: start':
+    'prefix': 'alss'
+    'body': 'align-self: start;'
+  'align-self: stretch':
+    'prefix': 'alsstr'
+    'body': 'align-self: stretch;'
+  'grid-area':
+    'prefix': 'gra'
+    'body': 'grid-area: ${1:<name>};'
+  'grid-column':
+    'prefix': 'gc'
+    'body': 'grid-column: ${1:1} / ${2:2};'
+  'grid-column-end':
+    'prefix': 'gce'
+    'body': 'grid-column-end: ${1:2};'
+  'grid-column-start':
+    'prefix': 'gcs'
+    'body': 'grid-column-end: ${1:1};'
+  'grid-row':
+    'prefix': 'grr'
+    'body': 'grid-row: ${1:1} / ${2:2};'
+  'grid-row-end':
+    'prefix': 'gre'
+    'body': 'grid-row-end: ${1:2};'
+  'grid-row-start':
+    'prefix': 'grs'
+    'body': 'grid-row-end: ${1:1};'
+  'justify-self':
+    'prefix': 'js'
+    'body': 'justify-self: ${1:center};'
+  'justify-self: center':
+    'prefix': 'jsc'
+    'body': 'justify-self: center;'
+  'justify-self: end':
+    'prefix': 'jse'
+    'body': 'justify-self: end;'
+  'justify-self: start':
+    'prefix': 'jss'
+    'body': 'justify-self: start;'
+  'justify-self: stretch':
+    'prefix': 'jsstr'
+    'body': 'justify-self: stretch;'

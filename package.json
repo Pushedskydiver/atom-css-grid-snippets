@@ -1,0 +1,24 @@
+{
+  "name": "css-grid-snippets",
+  "version": "1.0.0",
+  "description": "CSS Grid layout Snippets",
+  "keywords": [
+    "snippets",
+    "css",
+    "less",
+    "scss",
+    "sass",
+    "grid",
+    "css grid"
+  ],
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "main": "lib/main"
+}
