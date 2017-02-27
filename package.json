@@ -7,7 +7,7 @@
     "css",
     "css grid",
     "scss",
-    "sass",
+    "sass"
   ],
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
