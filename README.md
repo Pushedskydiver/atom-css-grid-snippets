@@ -4,7 +4,7 @@
 [![apm](https://img.shields.io/apm/dm/css-grid-snippets.svg?style=flat-square)](https://atom.io/packages/css-grid-snippets)
 [![apm](https://img.shields.io/apm/l/css-grid-snippets.svg?style=flat-square)](https://atom.io/packages/css-grid-snippets)
 
-###### An Atom Package - [Atom.io](https://atom.io/packages/css-grid-snippets) : [Github](https://github.com/pushedskydiver/atom-css-grid-snippets)
+###### An Atom Package - [Atom.io](https://atom.io/packages/css-grid-snippets) : [GitHub](https://github.com/pushedskydiver/atom-css-grid-snippets)
 
 Shorthand [snippets](https://atom.io/packages/snippets) for CSS, SCSS, Sass, and Less.
 
@@ -20,7 +20,7 @@ You can see the list of the CSS grid snippets in the tables below. I have organi
 ### Grid Container Snippets
 
 | Property                          | Snippet       |
-| --------------------------------- | ------------- |
+| :-------------------------------- | :------------ |
 | align-content                     | ac            |
 | align-content: center;            | acc           |
 | align-content: end;               | ace           |
@@ -28,7 +28,7 @@ You can see the list of the CSS grid snippets in the tables below. I have organi
 | align-content: space-around;      | acsa          |
 | align-content: space-between;     | acsb          |
 | align-content: space-evenly;      | acse          |
-| align-items:                      | ai            |
+| align-items                       | ai            |
 | align-items: center;              | aic           |
 | align-items: end;                 | aie           |
 | align-items: start;               | ais           |
