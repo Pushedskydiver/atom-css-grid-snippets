@@ -146,7 +146,7 @@
     'body': 'grid-column-end: ${1:2};'
   'grid-column-start':
     'prefix': 'gcs'
-    'body': 'grid-column-end: ${1:1};'
+    'body': 'grid-column-start: ${1:1};'
   'grid-row':
     'prefix': 'grr'
     'body': 'grid-row: ${1:1} / ${2:2};'
@@ -155,7 +155,7 @@
     'body': 'grid-row-end: ${1:2};'
   'grid-row-start':
     'prefix': 'grs'
-    'body': 'grid-row-end: ${1:1};'
+    'body': 'grid-row-start: ${1:1};'
   'justify-self':
     'prefix': 'js'
     'body': 'justify-self: ${1:center};'
