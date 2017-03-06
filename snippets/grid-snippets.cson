@@ -35,7 +35,7 @@
   'align-items: start':
     'prefix': 'ais'
     'body': 'align-items: start;'
-  'align-items stretch':
+  'align-items: stretch':
     'prefix': 'aistr'
     'body': 'align-items: stretch;'
   'display: inline-grid':
