@@ -83,7 +83,7 @@ You can see the list of the CSS grid snippets in the tables below. I have organi
 | justify-self: stretch;            | jsstr         |
 
 ### Want To Learn CSS Grid?
-If you are new or have never heard of CSS Grid before, then now is the time to learn, with browsers ready to start shipping it very soon.
+If you are new or have never heard of CSS Grid before, then now is the time to learn, with modern browsers now supporting the layout method.
 
 For more information about grid and how to learn it, checkout out [gridbyexample.com](http://gridbyexample.com "Grid By Example homepage"), created by [Rachel Andrew](https://rachelandrew.co.uk "Rachel Andrew's website") who has been at the forefront of grid layout research.
 
@@ -91,6 +91,7 @@ For more information about grid and how to learn it, checkout out [gridbyexample
 * [gridbyexample.com](http://gridbyexample.com "Grid By Example homepage")
 * [css-tricks.com](https://css-tricks.com/snippets/css/complete-guide-grid/ "A Complete Guide to Grid")
 * [sitepoint.com](https://www.sitepoint.com/introducing-the-css-grid-layout/ "Introducing the CSS Grid Layout")
+* [Mozilla](https://mozilladevelopers.github.io/playground/?utm_source=SmashingMagTW&utm_medium=social&utm_campaign=DevelopersQ3&utm_content=A144_A927_C003798")
 
 ### Notes
 Issues and Pull Requests are welcome.
