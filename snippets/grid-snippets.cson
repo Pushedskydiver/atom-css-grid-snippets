@@ -1,4 +1,4 @@
-'.source.css, .source.scss, .source.sass, .source.less':
+'.source.css, .source.scss, .source.sass, .source.less .source.vue':
   'align-content':
     'prefix': 'ac'
     'body': 'align-content: ${1:center};'
